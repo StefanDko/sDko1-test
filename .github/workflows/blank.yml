@@ -35,6 +35,6 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           - name: GitHub Pages Generator
-  uses: adamws/github-pages-generator@v0.0.1
+  -uses: adamws/github-pages-generator@v0.0.1
 
 
